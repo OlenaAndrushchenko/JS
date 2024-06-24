@@ -5,3 +5,4 @@ Various small exercises in JavaScript. This repository is part of coursework for
 ### Exercises:
 
 - Reversing Words
+- The word exist or not
